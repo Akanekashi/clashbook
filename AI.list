@@ -4,7 +4,7 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
-DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,meta.ai
@@ -42,5 +42,6 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
