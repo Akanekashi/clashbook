@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,cdn.plyr.io
 DOMAIN-SUFFIX,creative.bluetrafficstream.com
 DOMAIN-SUFFIX,media-hls.growcdnssedge.com
 DOMAIN-SUFFIX,x0.x2.servers.nat-traversal.uxcom.jp
+DOMAIN-SUFFIX,go.bluetrafficstream.com
+DOMAIN-SUFFIX,vdownload.hembed.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
