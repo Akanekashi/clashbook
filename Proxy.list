@@ -52,15 +52,6 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 
-#Hanime
-DOMAIN-SUFFIX,doppiocdn.com
-DOMAIN-SUFFIX,plyr.io
-DOMAIN-SUFFIX,bluetrafficstream.com
-DOMAIN-SUFFIX,growcdnssedge.com
-DOMAIN-SUFFIX,nat-traversal.uxcom.jp
-DOMAIN-SUFFIX,bluetrafficstream.com
-DOMAIN-SUFFIX,hembed.com
-
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
