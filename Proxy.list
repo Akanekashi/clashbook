@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# 其他网站
+C
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
@@ -51,6 +51,13 @@ DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
+
+#Hanime
+DOMAIN-SUFFIX,img.doppiocdn.com
+DOMAIN-SUFFIX,cdn.plyr.io
+DOMAIN-SUFFIX,creative.bluetrafficstream.com
+DOMAIN-SUFFIX,media-hls.growcdnssedge.com
+DOMAIN-SUFFIX,x0.x2.servers.nat-traversal.uxcom.jp
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
