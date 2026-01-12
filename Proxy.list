@@ -55,6 +55,10 @@ DOMAIN-SUFFIX,steampowered.com
 #Hanime
 DOMAIN-SUFFIX,vdownload.hembed.com
 
+#Openwrt
+DOMAIN-SUFFIX,openwrt.ai
+
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
