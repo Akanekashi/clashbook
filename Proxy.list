@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,vdownload.hembed.com
 
 #Openwrt
-DOMAIN-SUFFIX,openwrt.ai
+#DOMAIN-SUFFIX,openwrt.ai
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
